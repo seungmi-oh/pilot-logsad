@@ -2,7 +2,7 @@
 
 ## 📌 Project Overview
 - Purpose: Pilot testing for research field exploration.
-- Baseline: [![Paper](https://img.shields.io/badge/CVPR-Paper-red)](https://arxiv.org/pdf/2503.18325) [![Original Git](https://github.com/zhang0jhon/LogSAD?tab=readme-ov-file)
+- Baseline: [![Paper](https://img.shields.io/badge/CVPR-Paper-red)](https://arxiv.org/pdf/2503.18325) [![Original Git](https://img.shields.io/badge/Git-Code-green)](https://github.com/zhang0jhon/LogSAD?tab=readme-ov-file)
 
 ## 💻 Environment Setup
 - Python: 3.10+
